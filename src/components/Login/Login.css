@@ -1,0 +1,22 @@
+.login{
+    margin-left: 400px;
+    padding: 50px;
+}
+
+.login-img img{
+  height: 100px;
+  width: 100px;
+  margin-left: 190px;
+}
+.user-login{
+    width: 500px;
+    height: 700px;
+}
+.pass{
+    position: relative;
+}
+.eye{
+    position: absolute;
+    margin-top:-30px;
+    margin-left: 450px;
+}
